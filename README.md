@@ -96,4 +96,4 @@ Open `http://localhost:3000` and you should see your dashboard.
 
 I'm Julia a Computer Science grad who likes building things that make everyday tasks (like actually looking at your bank statement) a little less painful. If you use this and it helps you save a coffee-run's worth of money, that's a win in my book.
 
-Feel free to open an issue, fork it, or reach out [linkedin.com/in/juliaiguerra](https://linkedin.com/in/juliaiguerra).
+Feel free to open an issue, fork it, or reach out — [linkedin.com/in/juliaiguerra](https://linkedin.com/in/juliaiguerra) or guerrajuliaisabella@gmail.com.
