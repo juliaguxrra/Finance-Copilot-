@@ -4,6 +4,7 @@ Hi, I'm Julia! Finance Co-Pilot is a simple, friendly dashboard where you log yo
 
 ![status](https://img.shields.io/badge/status-active-6FC1EF) ![made with](https://img.shields.io/badge/made%20with-FastAPI%20%2B%20Next.js-F6D948)
 
+**🔗 [Try it live](https://finance-copilot-2-wgup.onrender.com/)**
 ---
 
 ## What it does
