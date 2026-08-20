@@ -80,10 +80,10 @@ Open `http://localhost:3000` and you should see your dashboard.
 
 ## Using it
 
-1. **Add an expense** — pick a category (or type your own under "Other"), enter where you spent it and how much, and hit *Add expense*. It shows up instantly in your charts and your activity table.
-2. **Ask it anything** — type a question like *"What's my biggest expense?"* or *"How can I save $300?"* and hit *Ask*. You'll see a little tag telling you whether Claude, Gemini, or the built-in logic answered.
-3. **Delete a mistake** — hit *Remove* next to any transaction in your activity table.
-4. **Watch your forecast update** — the "what we expect next month" number recalculates automatically as you add more history.
+1. **Add an expense** ⚪️ pick a category (or type your own under "Other"), enter where you spent it and how much, and hit *Add expense*. It shows up instantly in your charts and your activity table.
+2. **Ask it anything** ⚪️ type a question like *"What's my biggest expense?"* or *"How can I save $300?"* and hit *Ask*. You'll see a little tag telling you whether Claude, Gemini, or the built-in logic answered.
+3. **Delete a mistake** ⚪️ hit *Remove* next to any transaction in your activity table.
+4. **Watch your forecast update** ⚪️ the "what we expect next month" number recalculates automatically as you add more history.
 
 ## Roadmap ideas
 
