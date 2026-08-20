@@ -56,7 +56,7 @@ GEMINI_API_KEY=          # optional — used if no Anthropic key is set
 FRONTEND_ORIGIN=         # optional — only needed if you deploy the frontend somewhere other than localhost
 ```
 
-Don't have either API key handy? Totally fine — leave them blank and the app will answer questions using its built-in rule-based logic instead.
+If you don't have either API key handy, leave them blank and the app will answer questions using its built-in rule-based logic instead.
 
 Start the server:
 
@@ -84,12 +84,6 @@ Open `http://localhost:3000` and you should see your dashboard, ready for its fi
 2. **Ask it anything** — type a question like *"What's my biggest expense?"* or *"How can I save $300?"* and hit *Ask*. You'll see a little tag telling you whether Claude, Gemini, or the built-in logic answered.
 3. **Delete a mistake** — hit *Remove* next to any transaction in your activity table.
 4. **Watch your forecast update** — the "what we expect next month" number recalculates automatically as you add more history.
-
-## A few honest notes
-
-- Your data lives in a local JSON file on the backend (`backend/data/transactions.json`), so it's private to whoever's running the server — great for personal use, not meant to be a multi-user product yet.
-- Sample data included in the repo is just placeholder — swap it out or clear it and start logging your real spending.
-- This was built as a learning project to get better at full-stack development end-to-end, from schema to UI. If you spot something that could be better, I'd genuinely love to hear it.
 
 ## Roadmap ideas
 
