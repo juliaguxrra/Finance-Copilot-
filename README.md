@@ -8,12 +8,12 @@ Hi, I'm Julia! Finance Co-Pilot is a simple, friendly dashboard where you log yo
 
 ## What it does
 
-- **Logs expenses in seconds** — pick a category, type the merchant, enter the amount, done. Everything saves automatically, even if you refresh.
-- **Shows you the shape of your spending** — a monthly bar chart and a category breakdown pie chart, powered by Recharts.
+- **Logs expenses in seconds** ⚪️ pick a category, type the merchant, enter the amount, done. Everything saves automatically, even if you refresh.
+- **Shows you the shape of your spending** ⚪️ a monthly bar chart and a category breakdown pie chart, powered by Recharts.
 - **Forecasts next month** so you're not caught off guard.
 - **Explains *why*** your spending moved, not just that it did (e.g. "You spent $42 more than last month because Restaurants increased by $30").
-- **Answers questions in your own words** — ask about a category, a merchant, a specific month, or a savings goal, and it'll figure out what you mean.
-- **Has a brain even without an API key** — if you don't hook up Claude or Gemini, it falls back to a solid rule-based answer engine, so the app never feels broken.
+- **Answers questions in your own words** ⚪️ ask about a category, a merchant, a specific month, or a savings goal, and it'll figure out what you mean.
+- **Has a brain even without an API key** ⚪️ if you don't hook up Claude or Gemini, it falls back to a solid rule-based answer engine, so the app never feels broken.
 
 ## How it's built
 
@@ -51,9 +51,9 @@ cp .env.example .env
 ```
 
 ```env
-ANTHROPIC_API_KEY=       # optional — enables Claude-powered answers
-GEMINI_API_KEY=          # optional — used if no Anthropic key is set
-FRONTEND_ORIGIN=         # optional — only needed if you deploy the frontend somewhere other than localhost
+ANTHROPIC_API_KEY=       # optional ⚪️ enables Claude-powered answers
+GEMINI_API_KEY=          # optional ⚪️ used if no Anthropic key is set
+FRONTEND_ORIGIN=         # optional ⚪️ only needed if you deploy the frontend somewhere other than localhost
 ```
 
 If you don't have either API key handy, leave them blank and the app will answer questions using its built-in rule-based logic instead.
@@ -76,7 +76,7 @@ npm install
 npm run dev
 ```
 
-Open `http://localhost:3000` and you should see your dashboard, ready for its first expense.
+Open `http://localhost:3000` and you should see your dashboard.
 
 ## Using it
 
