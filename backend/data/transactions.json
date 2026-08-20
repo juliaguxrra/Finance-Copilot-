@@ -1,0 +1,30 @@
+[
+  {
+    "id": "tc47909de1f",
+    "date": "2026-07-20",
+    "merchant": "Wendys",
+    "category": "Restaurants",
+    "amount": 10.0
+  },
+  {
+    "id": "tbacb2b1399",
+    "date": "2026-06-17",
+    "merchant": "Walmart",
+    "category": "Utilities",
+    "amount": 1222.0
+  },
+  {
+    "id": "te13cbb45ed",
+    "date": "2026-07-22",
+    "merchant": "xx",
+    "category": "Groceries",
+    "amount": 1.0
+  },
+  {
+    "id": "td61cebec7b",
+    "date": "2026-08-20",
+    "merchant": "xxx",
+    "category": "Transportation",
+    "amount": 1000.0
+  }
+]
